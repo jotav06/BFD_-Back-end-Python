@@ -1,5 +1,5 @@
 nome_usuario = input("Digite seu nome: ")
-sobrenome_usuario= input("DIgite seu sobrenome: ")
+sobrenome_usuario= input("Digite seu sobrenome: ")
 idade_usuario = int(input("Digite sua idade: "))
 print("                      ")
 print("----------------------")
