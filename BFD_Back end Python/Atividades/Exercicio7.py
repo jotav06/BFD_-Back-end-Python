@@ -1,4 +1,4 @@
-CIDADE_NASC = input ("Em que cidade você nasceu? ")
-ESTADO_NASC = input ("Em que estado fica esta cidade? ")
+CIDADE_NASC = "Recife"
+ESTADO_NASC = "Pernambuco"
 
-print(f"Você nasceu em{CIDADE_NASC},{ESTADO_NASC} ")
+print(f"{CIDADE_NASC}\n{ESTADO_NASC} ")
