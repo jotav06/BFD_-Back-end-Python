@@ -1,17 +1,7 @@
-nome_usuario = input("Digite seu nome: ")
-sobrenome_usuario= input("Digite seu sobrenome: ")
-idade_usuario = int(input("Digite sua idade: "))
-print("                      ")
-print("----------------------")
-print("---Dados do usuário---")
-print("----------------------")
-print("                      ")
-print("Nome: ", nome_usuario)
-print("Sobrenome: ", sobrenome_usuario)
-print("Idade: ", idade_usuario)
-print("                      ")
-print("Obrigado pelas informações, ", nome_usuario,".")
+nome = "Victor"
+sobrenome = "Silva"
+idade = 26
 
-print (type(nome_usuario))
-print (type(idade_usuario))
-print (type(sobrenome_usuario))
+print ("nome : ", nome)
+print ("sobrenome :", sobrenome)
+print ("idade :", idade)
